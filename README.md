@@ -3,8 +3,8 @@
 ## Setup 
 1. Create environment.
 ```
-conda create -n <i><env_name></i> python=3.10
-conda activate <i><env_name></i>
+conda create -n (env_name) python=3.10
+conda activate (env_name)
 ```
 
 2. Clone this repository.
