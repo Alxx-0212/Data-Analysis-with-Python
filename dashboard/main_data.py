@@ -6,8 +6,8 @@ import streamlit as st
 from babel.numbers import format_currency
 import os
 
-grouped_ordered_products = pd.read_csv("./grouped_ordered_products.csv")
-rfm_orders_df = pd.read_csv("./rfm_orders_df.csv")
+grouped_ordered_products = pd.read_csv("dashboard/grouped_ordered_products.csv")
+rfm_orders_df = pd.read_csv("dashboard/rfm_orders_df.csv")
 
 
 def grouped_sales_by_year(df):
