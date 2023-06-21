@@ -19,3 +19,6 @@ python -m pip install -r requirements.txt
 cd dashboard
 streamlit run main_data.py
 ```
+
+## Streamlit app link 
+[Dicoding_DataAnalysis_E-commerce](https://data-analysis-with-python-dicoding.streamlit.app/)
