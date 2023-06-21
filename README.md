@@ -3,7 +3,7 @@
 ## Setup 
 1. Create environment.
 ```
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.10.4
 conda activate main-ds 
 ```
 
