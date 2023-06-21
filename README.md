@@ -20,5 +20,5 @@ cd dashboard
 streamlit run main_data.py
 ```
 
-## Streamlit app link 
+## Streamlit app url deployed with streamlit cloud
 [Dicoding_DataAnalysis_E-commerce](https://data-analysis-with-python-dicoding.streamlit.app/)
