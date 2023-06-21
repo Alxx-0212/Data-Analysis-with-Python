@@ -1,5 +1,5 @@
 # Dicoding Final E-commerce Dashboard
-Dicoding Data Analysis with Python final project e-commerce dataset. Analyzed the e-commerce dataset and create data visualization using python. 
+Dicoding Data Analysis with Python final project e-commerce dataset. Analyzed the e-commerce dataset and created visualization using python. 
 
 ## Setup 
 1. Create environment.
