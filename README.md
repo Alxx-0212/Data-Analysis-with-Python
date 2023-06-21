@@ -25,4 +25,4 @@ streamlit run main_data.py
 [Dicoding_DataAnalysis_E-commerce](https://data-analysis-with-python-dicoding.streamlit.app/)
 
 ![preview](preview.jpg)
-<p align="center"><i>streamlit e-commerce dashboard preview</i></p>
+<p align="center"><i>e-commerce dashboard preview</i></p>
